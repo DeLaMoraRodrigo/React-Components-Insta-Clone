@@ -12,7 +12,7 @@ const SearchBar = () => {
       <form className="search-form">
         <input
           type="text"
-          placeholder="Search"
+          placeholder= "Search"
         />
       </form>
       <div className="social-wrapper">
